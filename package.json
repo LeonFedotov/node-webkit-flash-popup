@@ -1,0 +1,17 @@
+{
+  "name": "node-webkit-flash-popup",
+  "description": "",
+  "version": "0.1.0",
+  "main": "index.html",
+  "webkit": {
+    "plugin": true
+  },
+  "window": {
+    "show": false,
+    "toolbar": false,
+    "frame": false,
+    "position": "center",
+    "width": 800,
+    "height": 600
+  }
+}
